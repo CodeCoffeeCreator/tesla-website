@@ -63,6 +63,7 @@ const Header = () => {
 export default Header;
 
 const Container = styled.div`
+  max-width: 100vw;
   min-height: 60px;
   position: fixed;
   display: flex;
